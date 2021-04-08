@@ -1,7 +1,5 @@
 from dataLoader import DataLoader
 
-#Joseph Demyanovskiy 001208427
-
 #Global variables to be accessed between files.
 global data_loader
 data_loader = DataLoader()
