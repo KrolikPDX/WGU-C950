@@ -1,5 +1,3 @@
-#Joseph Demyanovskiy 001208427
-
 class Time(object):
     def __str__(self):
         #So we don't print time as 10:7 instead of 10:07
