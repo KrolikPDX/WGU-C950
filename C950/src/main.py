@@ -2,8 +2,6 @@ from manager import Manager
 from global_file import *
 from packagehashtable import PackageHashTable
 
-#Joseph Demyanovskiy 001208427
-
 def main():
     packages_hash_table = create_package_hash()
 
