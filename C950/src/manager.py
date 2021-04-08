@@ -2,8 +2,6 @@ from truck import Truck
 from global_file import *
 from timeclass import Time
 
-#Joseph Demyanovskiy 001208427
-
 # Create truck objects
 truck1 = Truck(1, locations[0])
 truck2 = Truck(2, locations[0])
