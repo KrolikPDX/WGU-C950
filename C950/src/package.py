@@ -1,5 +1,3 @@
-#Joseph Demyanovskiy 001208427
-
 class Package:
     def __str__(self):
         return "Package #" + self.id
