@@ -1,5 +1,3 @@
-#Joseph Demyanovskiy 001208427
-
 class ChainingHashTable(object):
     def __init__(self, capacity=40):
         self.table = []
