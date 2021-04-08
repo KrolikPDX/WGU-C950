@@ -1,8 +1,6 @@
 import csv
 from location import Location
 
-#Joseph Demyanovskiy 001208427
-
 class DataLoader(object):
     def setup_distances(self):
         def convert_to_float(distance_str):
