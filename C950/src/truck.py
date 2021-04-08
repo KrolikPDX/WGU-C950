@@ -1,8 +1,6 @@
 from global_file import *
 from timeclass import Time
 
-#Joseph Demyanovskiy 001208427
-
 class Truck(object):
     def __str__(self):
         return "Truck" + str(self.id)
