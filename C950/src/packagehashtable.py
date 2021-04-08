@@ -2,8 +2,6 @@ from chaininghashtable import ChainingHashTable
 from package import Package
 from global_file import *
 
-#Joseph Demyanovskiy 001208427
-
 class PackageHashTable(ChainingHashTable):
     def __init__(self, initial_capacity=40):
         super().__init__(initial_capacity)
